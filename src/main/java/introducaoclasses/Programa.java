@@ -1,7 +1,6 @@
-package IntroducaoClasses;
+package introducaoclasses;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class Programa extends Object {
 

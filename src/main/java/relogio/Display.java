@@ -1,4 +1,4 @@
-package Relogio;
+package relogio;
 
 import lombok.Data;
 

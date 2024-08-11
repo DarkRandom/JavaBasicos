@@ -1,4 +1,4 @@
-package IntroducaoClasses;
+package introducaoclasses;
 
 public class Matematica {
 
